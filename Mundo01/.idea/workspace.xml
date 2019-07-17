@@ -9,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Aulas/Aula 011.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -32,6 +32,9 @@
     <findStrings>
       <find>pow</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,6 +95,7 @@
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -104,16 +108,6 @@
             <path>
               <item name="Mundo01" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mundo01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mundo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mundo01" type="462c0819:PsiDirectoryNode" />
-              <item name="Aulas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mundo01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mundo01" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mundo01" type="b2602c69:ProjectViewProjectNode" />
@@ -137,6 +131,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -335,7 +330,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.23524962" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.23903178" />
     </layout>
   </component>
   <component name="editorHistoryManager">
